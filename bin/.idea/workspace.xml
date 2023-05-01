@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="759a1c3e-bf45-4263-a606-009461a6d215" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AndroidStudioProjects/todoapp/.idea/todoapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidStudioProjects/todoapp/todoapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GatorEats/GatorEats-Frontend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/BlackJackTest/BlackJackTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Blackjack/Blackjack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Connect-Four/Connect-Four.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/ConnectFour/ConnectFour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Cowsay/Cowsay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Hello.java/Hello.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/ImageRLE/ImageRLE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pakudex/Pakudex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/ReactLearningProject/ReactLearningProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/SciCalculator/SciCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu/ufl/cise/plcsp23/Assignment5Test_grading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu/ufl/cise/plcsp23/Assignment5Test_starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu/ufl/cise/plcsp23/Assignment6Test_grading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu/ufl/cise/plcsp23/runtime/ConsoleIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu/ufl/cise/plcsp23/runtime/FileURLIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu/ufl/cise/plcsp23/runtime/ImageOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu/ufl/cise/plcsp23/runtime/PLCRuntimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu/ufl/cise/plcsp23/runtime/PixelOps.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OwGwUsExHARMySuHv5u4ffdYlc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/youss/Development/assignment5/edu/ufl/cise/plcsp23&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/edu/ufl/cise/plcsp23" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Assignment6Test_grading">
+    <configuration name="Assignment5Test_grading" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufl.cise.plcsp23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ufl.cise.plcsp23" />
+      <option name="MAIN_CLASS_NAME" value="edu.ufl.cise.plcsp23.Assignment5Test_grading" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment5Test_starter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufl.cise.plcsp23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ufl.cise.plcsp23" />
+      <option name="MAIN_CLASS_NAME" value="edu.ufl.cise.plcsp23.Assignment5Test_starter" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment5Test_starter.cg10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufl.cise.plcsp23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ufl.cise.plcsp23" />
+      <option name="MAIN_CLASS_NAME" value="edu.ufl.cise.plcsp23.Assignment5Test_starter" />
+      <option name="METHOD_NAME" value="cg10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment6Test_grading" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufl.cise.plcsp23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ufl.cise.plcsp23" />
+      <option name="MAIN_CLASS_NAME" value="edu.ufl.cise.plcsp23.Assignment6Test_grading" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScanner_starter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufl.cise.plcsp23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ufl.cise.plcsp23" />
+      <option name="MAIN_CLASS_NAME" value="edu.ufl.cise.plcsp23.TestScanner_starter" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Assignment6Test_grading" />
+        <item itemvalue="JUnit.Assignment5Test_grading" />
+        <item itemvalue="JUnit.Assignment5Test_starter" />
+        <item itemvalue="JUnit.Assignment5Test_starter.cg10" />
+        <item itemvalue="JUnit.TestScanner_starter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="759a1c3e-bf45-4263-a606-009461a6d215" name="Changes" comment="" />
+      <created>1682464469591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682464469591</updated>
+      <workItem from="1682464470705" duration="49000" />
+      <workItem from="1682464527925" duration="10000" />
+      <workItem from="1682638762580" duration="1531000" />
+      <workItem from="1682803211270" duration="13328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/javaCompilerClassLoader/DynamicCompiler.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/javaCompilerClassLoader/DynamicCompiler.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/javaCompilerClassLoader/DynamicCompiler.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/javaCompilerClassLoader/DynamicCompiler.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/javaCompilerClassLoader/DynamicCompiler.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/javaCompilerClassLoader/DynamicCompiler.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/javaCompilerClassLoader/DynamicCompiler.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/javaCompilerClassLoader/DynamicCompiler.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/javaCompilerClassLoader/DynamicCompiler.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/javaCompilerClassLoader/DynamicCompiler.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/javaCompilerClassLoader/DynamicCompiler.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu/ufl/cise/plcsp23/ast/Block.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
